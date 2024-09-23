@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "server": "node src/index.js"
+    "calculator": "node src/calculator.js 10 5"
   },
   "keywords": [],
   "author": "",
