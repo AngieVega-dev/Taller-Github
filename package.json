@@ -5,7 +5,8 @@
   "scripts": {
     "calculator": "node src/calculator 10 5",
     "uppercase": "node src/convertToUpper",
-    "counter": "node src/counter"
+    "counter": "node src/counter",
+    "read-async": " node src/readAsync.js"
   },
   "keywords": [],
   "author": "",
