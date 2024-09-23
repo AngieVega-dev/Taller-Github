@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "calculator": "node src/calculator.js 10 5"
+    "calculator": "node src/calculator 10 5",
+    "uppercase": "node src/convertToUpper"
   },
   "keywords": [],
   "author": "",
