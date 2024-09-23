@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "calculator": "node src/calculator 10 5",
-    "uppercase": "node src/convertToUpper"
+    "uppercase": "node src/convertToUpper",
+    "counter": "node src/counter"
   },
   "keywords": [],
   "author": "",
